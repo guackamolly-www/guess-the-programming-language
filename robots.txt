@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://guackamollyapps.com/sitemap.xml
+Sitemap: https://guackamollyapps.com/guess-the-programming-language/sitemap.xml
